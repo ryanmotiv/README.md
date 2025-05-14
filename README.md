@@ -1,5 +1,3 @@
-# README.md
-
 # Welcome to my Github page/portfolio!
 
 My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and finance student at University of Washington. My interests include: web development for businesses, online service creation, solving efficiency problems, AI, Algorithms, and much more!
