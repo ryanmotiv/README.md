@@ -22,7 +22,7 @@ My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and 
 *  Templates that come in handy
 *  Money from projects!!!
 
-# 🌱 What I'm learning & Plan to Learn:
+# 🌱 What I'm learning & plan to Learn:
 * Web Development
 * Cloud Computing
 * Hacking
