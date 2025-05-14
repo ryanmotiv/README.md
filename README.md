@@ -2,7 +2,7 @@
 
 My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and finance student at University of Washington. My interests include: web development for businesses, online service creation, solving efficiency problems, AI, Algorithms, and much more!
 
-# 🚀 What I use:
+## 🚀 What I use:
 * JavaScript
 * Python
 * HTML
@@ -12,7 +12,7 @@ My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and 
 * R
 * Bootstrap
   
-# 🎯 My goal is to make...
+## 🎯 My goal is to make...
 *  An eccomerce website
 *  A general dynamic website
 *  A high quality static page
@@ -22,7 +22,7 @@ My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and 
 *  Templates that come in handy
 *  Money from projects!!!
 
-# 🌱 What I'm learning & plan to Learn:
+## 🌱 What I'm learning & plan to Learn:
 * Web Development
 * Cloud Computing
 * Hacking
@@ -37,18 +37,18 @@ My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and 
 * AWS
 * Heroku
 
-# Databases
+## Databases
 * SQL
 
-# Languages:
+## Languages:
 * English
 * Spanish (Intermediate)
 * Mandarin (Intermediate)
 
-# 💬 How to reach me:
+## 💬 How to reach me:
 * LinkedIn: @ryanalsberge
 
-# Fun facts:
+## Fun facts:
 * I love working out!
 * I am a video editor & graphic designer!
 * I have a personal brand that I dream to scale!
