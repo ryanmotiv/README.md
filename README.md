@@ -46,7 +46,7 @@ My name is Ryan Alsberge. I am an aspiring software engineer, entrepreneur, and 
 * Mandarin (Intermediate)
 
 # 💬 How to reach me:
-* LinkedIn: linkedin.com/ryanalsberge
+* LinkedIn: @ryanalsberge
 
 # Fun facts:
 * I love working out!
